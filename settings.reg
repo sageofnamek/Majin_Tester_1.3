@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\MyApplication]
+"AppVersion"="1.0"
+"InstallPath"="C:\\Program Files\\MyApplication"
+
+[HKEY_CURRENT_USER\Software\MyApplication]
+"UserSetting1"=dword:00000001
+"UserSetting2"="SomeValue"
